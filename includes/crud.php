@@ -19,9 +19,9 @@ class Database
      */
 
     private $db_host = "localhost";  // Change as required
-    private $db_user = "u743445510_adithi_boutique";  // Change as required
+    private $db_user = "u743445510_adithi_boutiqu";  // Change as required
     private $db_pass = "Adithi_Boutique@2024";  // Change as required
-    private $db_name = "u743445510_adithi_boutique";    // Change as required
+    private $db_name = "u743445510_adithi_boutiqu";    // Change as required
 
 
     // private $db_host = "localhost";  // Change as required
